@@ -1,0 +1,14 @@
+Changes
+lib/Art/Worlds.pm
+lib/Art/Worlds/Abstract/Agent.pm
+lib/Art/Worlds/Abstract/Concept.pm
+lib/Art/Worlds/Abstract/Market.pm
+lib/Art/Worlds/Abstract/Place.pm
+lib/Art/Worlds/Abstract/Work.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
